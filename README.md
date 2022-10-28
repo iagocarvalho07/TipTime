@@ -1,5 +1,7 @@
 # TipTime
- Projeto realizado em colab da google
+ Projeto realizado em codelab da google
+ Disponivel em 
+ https://developer.android.com/courses/android-basics-kotlin/unit-2
  
  ## O que eu pude aprender com este *codelab* vai aprender
  
