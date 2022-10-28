@@ -6,3 +6,6 @@
 
 
 projeto calculadora de gorgetas 
+
+
+![Screenshot_2022-10-28-00-40-18-697_com example tiptime](https://user-images.githubusercontent.com/71970033/198497522-e8278275-5172-47c8-8692-cf447814f5f6.jpg)
